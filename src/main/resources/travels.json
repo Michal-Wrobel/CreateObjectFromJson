@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "ITAKA",
+    "cityOffice": "WARSZAWA"
+  },
+  {
+    "id": 2,
+    "name": "Raibow",
+    "cityOffice": "Krakow"
+  },
+  {
+    "id": 3,
+    "name": "Prima",
+    "cityOffice": "Wroclaw"
+  },
+  {
+    "id": 4,
+    "name": "Tui",
+    "cityOffice": "Poznan"
+  }
+]
